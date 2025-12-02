@@ -22,7 +22,7 @@ youtubeurl: https://www.youtube.com/@Der-KI-Fl%C3%BCsterer
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -140,12 +140,12 @@ navbar-var-length: false
 
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#444444"
-navbar-col: "#4cb050"
+link-col: "#0a2463"
+hover-col: "#3f91cb"
+navbar-col: "#3f91cb"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
-footer-col: "#4cb050"
+footer-col: "#3f91cb"
 footer-text-col: "#777777"
 footer-link-col: "#ffffff"
 footer-hover-col: "#aaaaaa"
