@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nie wieder Chaos beim Brettspielabend: Dein Weg zu vollen Tischen!
+title: Nie wieder Chaos beim Brettspielabend - Dein Weg zu vollen Tischen!
 subtitle: Verwandle die Organisation deiner wöchentlichen Treffen in ein Kinderspiel – mit nur einem Link.
 tags: Eventmanagement, Brettspiele
 author: bindabei.app
