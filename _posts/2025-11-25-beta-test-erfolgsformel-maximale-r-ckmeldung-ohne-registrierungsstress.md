@@ -4,6 +4,7 @@ title: Beta-Test Erfolgsformel- Maximale Rückmeldung ohne Registrierungsstress
 subtitle: Wie Startups ihre Beta-Tester mühelos mobilisieren und die Teilnehmerquote maximieren
 tags: [Beta-Test Organisation, Eventmanagement Software]
 author: bindabei.app
+language: de
 ---
 # Die Revolution der Event-Einladung: Beta-Tester mühelos mobilisieren
 

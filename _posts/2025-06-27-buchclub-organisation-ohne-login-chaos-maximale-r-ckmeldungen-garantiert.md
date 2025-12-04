@@ -4,6 +4,7 @@ title: Buchclub-Organisation ohne Login-Chaos - Maximale Rückmeldungen garantie
 subtitle: Wie Sie wöchentliche Treffen mühelos planen und die Rücklaufquote auf 100 Prozent bringen
 tags: [Event-Organisation, Buchclub-Planung]
 author: bindabei.app
+language: de
 ---
 
 # Nie wieder Rätselraten bei der Buchclub-Planung – Ihr Weg zur 100%igen Zu- oder Absage

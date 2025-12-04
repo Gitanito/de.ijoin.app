@@ -4,6 +4,7 @@ title: Schluss mit Zettelwirtschaft Das Geheimnis einfacher Event-Organisation
 subtitle: Wie Sie die Rücklaufquote bei Einladungen maximieren – ohne Registrierung und Login
 tags: [Event-Planung, Elternbeirat]
 author: ijoin.app
+language: de
 ---
 
 # Schluss mit Zettelwirtschaft – So organisieren Sie Events wirklich einfach

@@ -4,6 +4,7 @@ title: Die Einladungswende- Maximale Rücklaufquote für Ihre Geburtstagsparty
 subtitle: Schluss mit dem Chaos- So organisieren Sie Events ohne Registrierung und Login-Zwang
 tags: [Event-Organisation, Geburtstagsparty]
 author: bindabei.app
+language: de
 ---
 
 # Nie wieder Rätselraten- So organisieren Sie stressfrei Ihre Geburtstagsparty

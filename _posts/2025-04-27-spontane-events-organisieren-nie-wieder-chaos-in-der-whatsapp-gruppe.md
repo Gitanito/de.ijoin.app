@@ -4,6 +4,7 @@ title: Spontane Events organisieren- Nie wieder Chaos in der WhatsApp-Gruppe
 subtitle: Die einfache Lösung für Grillabende, Vereinstreffen und spontane Feiern
 tags: [Event-Organisation, Spontane Treffen]
 author: ijoin.app
+language: de
 ---
 
 # Spontaner Grillabend am See? So organisieren Sie Ihr Event in 2 Minuten ohne Registrierung

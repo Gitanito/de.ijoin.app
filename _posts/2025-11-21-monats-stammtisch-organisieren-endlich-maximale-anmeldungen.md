@@ -4,6 +4,7 @@ title: Monats-Stammtisch organisieren - Endlich maximale Anmeldungen
 subtitle: Wie lokale Unternehmer ihren Stammtisch effizient planen und die Rücklaufquote verdoppeln
 tags: [Event-Organisation, Stammtisch]
 author: ijoin.app
+language: de
 ---
 
 # Nie wieder Rätselraten bei der Planung Ihres Unternehmer-Stammtisches

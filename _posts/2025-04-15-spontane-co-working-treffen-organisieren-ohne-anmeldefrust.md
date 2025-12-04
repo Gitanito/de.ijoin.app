@@ -4,6 +4,7 @@ title: Spontane Co-Working Treffen organisieren - ohne Anmeldefrust
 subtitle: Nie wieder komplizierte Abstimmungen für flexible Arbeitsgruppen
 tags: [Event-Organisation, Co-Working]
 author: bindabei.app
+language: de
 ---
 # Co-Working leicht gemacht - Maximale Beteiligung bei flexiblen Treffen
 

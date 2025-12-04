@@ -4,6 +4,7 @@ title: Schluss mit Anmelde-Chaos- So organisieren Sie Ihre Skill-Share-Abende m�
 subtitle: Die einfache Lösung für lokale Community-Events und maximale Teilnehmerzahlen
 tags: [Event-Organisation, Community-Events]
 author: bindabei.app
+language: de
 ---
 
 # Ihre lokale Skill-Share-Session- Endlich einfach **Event-Organisation**

@@ -4,6 +4,7 @@ title: Nachbarschaftshilfe organisieren - So melden sich Helfer sofort an
 subtitle: Nie wieder komplizierte Helferlisten für spontane Einsätze
 tags: [Nachbarschaftshilfe, Eventplanung]
 author: bindabei.app
+language: de
 ---
 
 # Der Schlüssel zur spontanen Nachbarschafts-Aktion – Helfer sofort gewinnen

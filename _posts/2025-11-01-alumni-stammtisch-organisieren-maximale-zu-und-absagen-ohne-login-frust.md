@@ -4,6 +4,7 @@ title: Alumni-Stammtisch organisieren- Maximale Zu- und Absagen ohne Login-Frust
 subtitle: So bringen Sie Ihre ehemaligen Studenten wirklich an den Tisch
 tags: [Eventorganisation, Alumni-Treffen]
 author: bindabei.app
+language: de
 ---
 
 # Alumni-Stammtisch organisieren- Maximale Zu- und Absagen ohne Login-Frust

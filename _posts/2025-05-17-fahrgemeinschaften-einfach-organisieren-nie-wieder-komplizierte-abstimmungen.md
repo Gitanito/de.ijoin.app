@@ -4,6 +4,7 @@ title: Fahrgemeinschaften einfach organisieren - Nie wieder komplizierte Abstimm
 subtitle: Schluss mit WhatsApp-Chaos - Wie Sie Sportevents und Pendelstrecken effizient koordinieren
 tags: [Fahrgemeinschaft, Eventorganisation]
 author: bindabei.app
+language: de
 ---
 
 # Fahrgemeinschaften einfach organisieren – Nie wieder komplizierte Abstimmungen

@@ -4,6 +4,7 @@ title: After-Work-Drinks planen- Nie wieder Rätselraten bei der Teilnehmerzahl
 subtitle: Wie Sie Kollegen mühelos zur neuen Bar einladen und sofort wissen, wer kommt
 tags: [Event-Organisation, After-Work-Drinks]
 author: ijoin.app
+language: de
 ---
 # After-Work-Drinks mühelos organisieren – Maximale Zusage, minimale Reibung
 

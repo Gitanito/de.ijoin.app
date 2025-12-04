@@ -4,6 +4,7 @@ title: Töpferkurs-Anmeldungen einfach gemacht - Nie wieder komplizierte Listen
 subtitle: Schluss mit Excel-Chaos - Maximale Teilnehmerzahl für Ihren nächsten Kreativ-Workshop sichern
 tags: [Event-Organisation, Töpferkurs]
 author: ijoin.app
+language: de
 ---
 
 # Töpferkurs-Anmeldungen revolutionieren: Mehr Teilnehmer, weniger Stress

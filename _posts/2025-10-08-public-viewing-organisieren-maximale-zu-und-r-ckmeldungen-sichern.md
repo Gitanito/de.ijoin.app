@@ -4,6 +4,7 @@ title: Public Viewing organisieren- Maximale Zu- und Rückmeldungen sichern
 subtitle: Nie wieder unsichere Teilnehmerzahlen bei Sport-Events oder Vereinsfeiern
 tags: [Event-Organisation, Public Viewing]
 author: bindabei.app
+language: de
 ---
 
 # Das perfekte Public Viewing-Event – Wie Sie 100%ige Klarheit über Ihre Gäste erhalten

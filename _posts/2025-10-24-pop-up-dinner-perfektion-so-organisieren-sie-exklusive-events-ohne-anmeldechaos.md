@@ -4,6 +4,7 @@ title: Pop-up Dinner Perfektion- So organisieren Sie exklusive Events ohne Anmel
 subtitle: Maximale Rücklaufquote für Ihr nächstes exklusives Event - Einfach, schnell und ohne Registrierung
 tags: [Event-Organisation, Pop-up-Dinner]
 author: ijoin.app
+language: de
 ---
 
 # Pop-up Dinner Perfektion- Exklusive Events mühelos organisieren

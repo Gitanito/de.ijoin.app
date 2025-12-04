@@ -4,6 +4,7 @@ title: Spontane Spielplatz-Treffen organisieren- Ohne Gruppenchaos
 subtitle: Nie wieder 50 WhatsApp-Nachrichten für eine einfache Verabredung
 tags: [Event-Organisation, Eltern-Community]
 author: bindabei.app
+language: de
 ---
 
 # Spielplatz-Verabredung auf Knopfdruck- Maximale Rücklaufquote für Eltern

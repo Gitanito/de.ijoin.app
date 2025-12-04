@@ -4,6 +4,7 @@ title: Wander- und Radtouren einfach organisieren ohne nervige Logins
 subtitle: Maximale Teilnehmerzahl für Ihr nächstes Outdoor-Abenteuer sichern
 tags: [Eventorganisation, Wandertreff]
 author: ijoin.app
+language: de
 ---
 
 # Nie wieder Rätselraten- Wer kommt zur nächsten Tour?

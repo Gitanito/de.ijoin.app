@@ -4,6 +4,7 @@ title: Das Ende der Anmelde-Hürden- Wie Sie Ihr Branchen-Meetup mühelos fülle
 subtitle: Maximale Rücklaufquoten für informelle Events ohne Registrierungszwang
 tags: [Event-Organisation, Branchen-Meetup]
 author: bindabei.app
+language: de
 ---
 
 # Das Ende der Anmelde-Hürden: Wie Sie Ihr Branchen-Meetup mühelos füllen

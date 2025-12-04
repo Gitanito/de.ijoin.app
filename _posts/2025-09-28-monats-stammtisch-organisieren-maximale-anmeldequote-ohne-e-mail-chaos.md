@@ -4,6 +4,7 @@ title: Monats-Stammtisch organisieren- Maximale Anmeldequote ohne E-Mail-Chaos
 subtitle: So bringen Sie lokale Unternehmer mühelos zusammen und erhöhen die Teilnahme an Ihren Netzwerk-Events
 tags: [Event-Organisation, Stammtisch]
 author: ijoin.app
+language: de
 ---
 
 # Schluss mit dem E-Mail-Pingpong- So organisieren lokale Gewerbevereine ihren Stammtisch wirklich effizient

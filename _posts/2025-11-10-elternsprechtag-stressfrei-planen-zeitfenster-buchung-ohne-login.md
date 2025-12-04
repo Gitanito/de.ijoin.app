@@ -4,6 +4,7 @@ title: Elternsprechtag stressfrei planen- Zeitfenster-Buchung ohne Login
 subtitle: Maximale Anmeldequote für Schulen und Vereine durch einfache Online-Organisation
 tags: [Elternsprechtag, Event-Organisation]
 author: ijoin.app
+language: de
 ---
 # Endlich- Einfache Online-Anmeldung für Elternsprechtage und Vereinsevents
 

@@ -4,6 +4,7 @@ title: Das Ende des Organisations-Chaos beim WG-Potluck
 subtitle: Nie wieder Listen führen- So organisieren Sie Ihr nächstes gemeinsames Essen mühelos
 tags: [Event-Organisation, Potluck]
 author: bindabei.app
+language: de
 ---
 
 # Schluss mit dem Organisations-Chaos beim WG-Potluck

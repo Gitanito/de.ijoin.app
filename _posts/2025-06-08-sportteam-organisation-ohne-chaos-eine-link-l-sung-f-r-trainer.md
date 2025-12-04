@@ -4,6 +4,7 @@ title: Sportteam-Organisation ohne Chaos- EINE Link-Lösung für Trainer
 subtitle: Maximale Trainingsbeteiligung und klare Kommunikation mit Eltern per einfachem Link
 tags: [Sportteam Organisation, Eventplanung]
 author: bindabei.app
+language: de
 ---
 
 # Sportteam-Organisation ohne Chaos – EINE Link-Lösung für Trainer

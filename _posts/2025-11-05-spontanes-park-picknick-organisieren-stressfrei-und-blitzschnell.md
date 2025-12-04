@@ -4,6 +4,7 @@ title: Spontanes Park-Picknick organisieren- Stressfrei und blitzschnell
 subtitle: Maximale Zu- und Absagen für dein Event ohne Registrierungs-Chaos
 tags: [Event-Organisation, Picknick-Planung]
 author: bindabei.app
+language: de
 ---
 
 # Spontanes Park-Picknick organisieren- Stressfrei und blitzschnell

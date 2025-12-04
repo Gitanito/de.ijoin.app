@@ -4,6 +4,7 @@ title: Uni-Klausur-Vorbereitung - So organisieren Sie Ihre Lerngruppe blitzschne
 subtitle: Schluss mit dem Chaos-Zettelwirtschaft für Ihre nächste Prüfungsvorbereitung
 tags: [Lerngruppe organisieren, Event-Organisation kostenlos]
 author: ijoin.app
+language: de
 ---
 # Stressfreie Lerngruppen-Organisation für die Uni-Klausur
 

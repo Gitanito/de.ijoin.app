@@ -4,6 +4,7 @@ title: Kreative Workshops erfolgreich organisieren - Maximale Teilnehmerzahl ohn
 subtitle: Wie Sie Ihre Event-Organisation vereinfachen und die Rücklaufquote für Kurse steigern
 tags: [event-organisation, workshop-planung]
 author: bindabei.app
+language: de
 ---
 
 # Ihre kreativen Workshops verdienen mehr Teilnehmer – Schluss mit komplizierten Anmeldungen

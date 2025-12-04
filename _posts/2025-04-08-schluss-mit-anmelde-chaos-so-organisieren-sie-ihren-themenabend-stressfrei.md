@@ -4,6 +4,7 @@ title: Schluss mit Anmelde-Chaos- So organisieren Sie Ihren Themenabend stressfr
 subtitle: Maximale Rücklaufquote für Lesungen und Diskussionsrunden ohne Login-Zwang
 tags: [Event-Organisation, Themenabend]
 author: bindabei.app
+language: de
 ---
 # Maximale Gästezahl für Ihren Themenabend- Einfache Event-Organisation ohne Login
 

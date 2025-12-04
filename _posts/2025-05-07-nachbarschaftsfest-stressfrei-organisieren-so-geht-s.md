@@ -4,6 +4,7 @@ title: Nachbarschaftsfest stressfrei organisieren - So geht's
 subtitle: Maximale Rücklaufquote für Ihr Straßenfest ohne lästige Anmeldungen
 tags: [Event-Organisation, Nachbarschaftsfest]
 author: ijoin.app
+language: de
 ---
 
 # Nie wieder Excel-Tabellen-Chaos beim Nachbarschaftsfest

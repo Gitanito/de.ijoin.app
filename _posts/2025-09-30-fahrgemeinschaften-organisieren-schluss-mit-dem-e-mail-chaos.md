@@ -4,6 +4,7 @@ title: Fahrgemeinschaften organisieren - Schluss mit dem E-Mail-Chaos
 subtitle: Wie Sie Schulausflüge und Vereinsevents stressfrei koordinieren
 tags: [Fahrgemeinschaften, Event-Koordination]
 author: ijoin.app
+language: de
 ---
 
 # Fahrgemeinschaften organisieren – So gelingt die stressfreie Koordination von Events

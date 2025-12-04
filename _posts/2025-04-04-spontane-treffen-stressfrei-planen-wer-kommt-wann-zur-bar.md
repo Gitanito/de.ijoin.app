@@ -4,6 +4,7 @@ title: Spontane Treffen stressfrei planen - Wer kommt wann zur Bar
 subtitle: Die einfache Lösung für Last-Minute-Events ohne lästige Gruppenchats
 tags: [Event-Organisation, Spontane-Treffen]
 author: bindabei.app
+language: de
 ---
 
 # Spontane Treffen stressfrei planen – Wer kommt wann zur Bar?

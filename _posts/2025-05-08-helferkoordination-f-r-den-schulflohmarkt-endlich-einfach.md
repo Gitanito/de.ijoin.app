@@ -4,6 +4,7 @@ title: Helferkoordination für den Schulflohmarkt endlich einfach
 subtitle: Maximieren Sie die Rücklaufquote bei der Freiwilligen-Anmeldung ohne mühsame Listen
 tags: [Schulflohmarkt, Helferkoordination]
 author: ijoin.app
+language: de
 ---
 
 # Helferkoordination für den Schulflohmarkt endlich einfach

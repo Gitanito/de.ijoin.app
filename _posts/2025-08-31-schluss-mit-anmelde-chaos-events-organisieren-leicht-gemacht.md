@@ -4,6 +4,7 @@ title: Schluss mit Anmelde-Chaos- Events organisieren leicht gemacht
 subtitle: Maximale Rücklaufquote für Ihre Veranstaltungen ohne Registrierungsfrust
 tags: [Event-Organisation, Anmelde-Tool]
 author: ijoin.app
+language: de
 ---
 
 # Schluss mit Anmelde-Chaos: Events organisieren leicht gemacht

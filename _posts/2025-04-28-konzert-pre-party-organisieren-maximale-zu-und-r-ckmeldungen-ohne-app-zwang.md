@@ -4,6 +4,7 @@ title: Konzert-Pre-Party organisieren- Maximale Zu- und Rückmeldungen ohne App-
 subtitle: Nie wieder komplizierte Gästelisten für spontane Events- Der einfache Weg zur perfekten Vorfeier
 tags: [Event-Organisation, Pre-Party]
 author: ijoin.app
+language: de
 ---
 
 # Die perfekte Pre-Party vor dem Konzert – Endlich wissen, wer wirklich kommt!

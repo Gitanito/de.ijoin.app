@@ -4,6 +4,7 @@ title: Feedback-Sessions organisieren ohne Anmelde-Chaos
 subtitle: Maximale Teilnehmerquote für Ihre UX- oder Produkt-Tests - Einfach und kostenlos
 tags: [Feedback-Sessions, Event-Organisation]
 author: ijoin.app
+language: de
 ---
 
 # Schluss mit dem Anmelde-Chaos - So bekommen Sie echtes Nutzer-Feedback
