@@ -13,7 +13,7 @@
 title: BinDabei.app
 
 # Your name to show in the footer
-author: BinDabei-Team
+author: iJoin-Team
 
 youtubeurl: https://www.youtube.com/@Der-KI-Fl%C3%BCsterer
 
@@ -52,7 +52,7 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "office@bindabei.app"
+  email: "office@ijoin.app"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
@@ -305,3 +305,6 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+
+language: de
+rss_description: BinDabei.app - Verabredungen Super-Simple!
